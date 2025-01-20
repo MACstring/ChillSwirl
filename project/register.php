@@ -62,7 +62,7 @@ if(isset($message)){
 <img class="image" src="images/login.png"alt="" srcset="">
 <div class="con">
    <form action="" method="post">
-   <img width="70" src="images/Booklogo.png" alt="">
+   <img width="70" src="images/logo.png" alt="">
       <h3>register now</h3>
       <div class="s">
       <svg viewBox="0 0 24 24"  height="20px" width="20px" xmlns="http://www.w3.org/2000/svg"><title/><circle cx="12" cy="8" fill="#464646" r="4"/><path d="M20,19v1a1,1,0,0,1-1,1H5a1,1,0,0,1-1-1V19a6,6,0,0,1,6-6h4A6,6,0,0,1,20,19Z" fill="#464646"/></svg>
