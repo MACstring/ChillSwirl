@@ -130,15 +130,15 @@ if(isset($_POST['order_btn'])){
          </div>
          <div class="inputBox">
             <span>City :</span>
-            <input type="text" name="city" required placeholder="E.g. Karachi">
+            <input type="text" name="city" required placeholder="E.g. Amman">
          </div>
          <div class="inputBox">
             <span>District :</span>
-            <input type="text" name="state" required placeholder="E.g. Sindh">
+            <input type="text" name="state" required placeholder="E.g. Amman">
          </div>
          <div class="inputBox">
             <span>Country :</span>
-            <input type="text" name="country" required placeholder="E.g. Pakistan">
+            <input type="text" name="country" required placeholder="E.g. Jordan">
          </div>
          <div class="inputBox">
             <span>Zip code :</span>
